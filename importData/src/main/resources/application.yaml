@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+cdd:
+  base-url: https://www.cryptodatadownload.com
+  default-exchange: Binance
